@@ -3,7 +3,7 @@
 You can use the [editor on GitHub](https://github.com/kphillpotts/XamarinLinks/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 ## Test some links
-* Link to a [demolinks](https://github.com/kphillpotts/XamarinLinks/demolinks.md)
+* Link to a [demolinks](demolinks.md)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
