@@ -25,9 +25,11 @@ Reporting Progress from Async Tasks
 http://blog.stephencleary.com/2012/02/reporting-progress-from-async-tasks.html
 
 ## Videos
-* [*Asynchronous Programming with Xamarin - Filip Ekberg*](https://tv.ssw.com/6522/asynchronous-programming-with-xamarin-filip-ekberg-at-xamarin-hack-day-sydney)
-* [*Six Essential Tips for Async - Channel9 Video*](https://channel9.msdn.com/Series/Three-Essential-Tips-for-Async)
+* [*Asynchronous Programming with Xamarin*](https://tv.ssw.com/6522/asynchronous-programming-with-xamarin-filip-ekberg-at-xamarin-hack-day-sydney) - In this presentation, Filip Ekberg, C# and Xamarin MVP, gives us a real practical demo of Async and Await in Xamarin.
+
+* [*Six Essential Tips for Async*](https://channel9.msdn.com/Series/Three-Essential-Tips-for-Async) - Channel 9 MSDN video series by Lucian Wischik goes through some essential tips for using Async.  He also has a summary [here](https://blogs.msdn.microsoft.com/lucian/2013/11/22/talk-async-best-practices/)
 
 ## Books
-* [*Concurrency in C# Cookbook - Stephen Cleary*](http://stephencleary.com/book/)
-* [*Threading in C# - Free E-Book by Joseph Albahari*](http://www.albahari.com/threading/) 
+* [*Concurrency in C# Cookbook - *](http://stephencleary.com/book/) - Stephen Cleary's book on Concurrency... Jon Skeet says "The ideal reference book for modern .NET concurrency" so that's a pretty glowing reference :)
+
+* [*Threading in C#*](http://www.albahari.com/threading/) - Joseph Albahari has a free ebook on his site, which goes into lots of awesome details on threading
