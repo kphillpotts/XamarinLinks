@@ -66,7 +66,7 @@ Search <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Searc
   <li><a href="#">Cindy</a></li>
 </ul>
 <!-- MarkdownTOC depth=4 -->
-
+<ul id="Links">
 # Table of Contents
 * [Design](#design)
     * [Inspiration](#design-inspiration)
@@ -86,13 +86,13 @@ Search <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Searc
 
 # General Development
 * [*Async, Await and Threading*](async_await.md)
-
+</ul>
 <script>
 function myFunction() {
     var input, filter, ul, li, a, i;
     input = document.getElementById("myInput");
     filter = input.value.toUpperCase();
-    ul = document.getElementById("myUL");
+    ul = document.getElementById("Links");
     li = ul.getElementsByTagName("li");
     for (i = 0; i < li.length; i++) {
         a = li[i].getElementsByTagName("a")[0];
