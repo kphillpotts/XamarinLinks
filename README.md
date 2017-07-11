@@ -54,28 +54,14 @@ Search <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Searc
 <!-- MarkdownTOC depth=4 -->
 <ul id="Links">
   <li><a href="#" class="header">Design</a></li>
-  <li><a href="https://dribbble.com/">Dribbble</a> - Design resources and stuff</li>
+  <li><a href="https://dribbble.com/">Dribbble</a></li>
   <li><a href="async_await.md">Async, Await and Threading</a></li>
 
   <li><a href="#" class="header">B</a></li>
   <li><a href="#">Billy</a></li>
-  <li><a href="#">Bob</a></li>    
 </ul>
-<a name="design"></a>
-## Design
-
-<a name="design-inspiration"/>
-
-### Inspiration Sites
-* [**Dribbble**](https://dribbble.com/) - Dribbble is show and tell for designers.
 
 
-## Xamarin.Forms Performance
-
-## Android Layout
-
-# General Development
-* [*Async, Await and Threading*](async_await.md)
 <script>
 function myFunction() {
     var input, filter, ul, li, a, i;
