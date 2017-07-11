@@ -3,11 +3,13 @@
 This is a hand curated list of resources categorised into various topics.
 
 If you have any additional links (or categories) you think should be included please feel free to shoot me an email at kphillpotts@gmail.com and if it's a quality resource I'll add it in.
+Me
+<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names.." title="Type in a name">
 
+<!-- MarkdownTOC depth=4 -->
 # Table of Contents
 * [Design](#design)
     * [Inspiration](#design-inspiration)
-
 
 <a name="design"></a>
 ## Design
