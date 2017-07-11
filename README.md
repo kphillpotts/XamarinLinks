@@ -67,10 +67,14 @@ Search <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Searc
 </ul>
 <!-- MarkdownTOC depth=4 -->
 <ul id="Links">
-# Table of Contents
-* [Design](#design)
-    * [Inspiration](#design-inspiration)
+  <li><a href="#" class="header">Design</a></li>
+  <li><a href="https://dribbble.com/">Dribbble</a> - Design resources and stuff</li>
+  <li><a href="async_await.md">Async, Await and Threading</a></li>
 
+  <li><a href="#" class="header">B</a></li>
+  <li><a href="#">Billy</a></li>
+  <li><a href="#">Bob</a></li>    
+</ul>
 <a name="design"></a>
 ## Design
 
@@ -86,7 +90,6 @@ Search <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Searc
 
 # General Development
 * [*Async, Await and Threading*](async_await.md)
-</ul>
 <script>
 function myFunction() {
     var input, filter, ul, li, a, i;
