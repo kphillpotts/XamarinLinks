@@ -16,13 +16,13 @@
   margin-bottom: 12px;
 }
 
-#myUL {
+#Links {
   list-style-type: none;
   padding: 0;
   margin: 0;
 }
 
-#myUL li a {
+#Links li a {
   border: 1px solid #ddd;
   margin-top: -1px; /* Prevent double borders */
   background-color: #f6f6f6;
@@ -33,12 +33,12 @@
   display: block
 }
 
-#myUL li a.header {
+#Links li a.header {
   background-color: #e2e2e2;
   cursor: default;
 }
 
-#myUL li a:hover:not(.header) {
+#Links li a:hover:not(.header) {
   background-color: #eee;
 }
 </style>
