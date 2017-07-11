@@ -48,7 +48,7 @@ This is a hand curated list of resources categorised into various topics.
 
 If you have any additional links (or categories) you think should be included please feel free to shoot me an email at kphillpotts@gmail.com and if it's a quality resource I'll add it in.
 
-Search <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names.." title="Type in a name">
+Search <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for links.." title="Type in a link">
 
 
 <!-- MarkdownTOC depth=4 -->
