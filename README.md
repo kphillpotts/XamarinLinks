@@ -54,8 +54,8 @@ Search <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Searc
 <!-- MarkdownTOC depth=4 -->
 <ul id="Links">
   <li><a href="#" class="header">Design</a></li>
-  <li><a href="https://dribbble.com/">Dribbble</a></li>
-  <li><a href="async_await.md">Async, Await and Threading</a></li>
+  <li><a href="https://dribbble.com/">Dribbble</a> - some dribble things</li>
+  <li><a href="async_await.md">Async, Await and Threading</a> - lots of info abut async</li>
 
   <li><a href="#" class="header">B</a></li>
   <li><a href="#">Billy</a></li>
